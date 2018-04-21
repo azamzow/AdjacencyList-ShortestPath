@@ -2,7 +2,7 @@
 
 ### Description 
 
-This project finds a path from the entrance to the exit in a maze that consists of rooms connected by doors. Each room is enumerated by consecutive integers, from 0 to {n^2} - 1, and it can have no more than 4 doors oriented to North , South , East  or West . The entry to the maze starts at the room 0 and ends at the room {n^2} - 1. The maze can be modeled by an undirected graph, where a vertex corresponds to a room and an edge corresponds to a door, see the maze below with the path and the corresponding graph for the maze.
+This project finds a path from the entrance to the exit in a maze that consists of rooms connected by doors. Each room is enumerated by consecutive integers, from 0 to $n^{2} - 1$, and it can have no more than 4 doors oriented to North , South , East  or West . The entry to the maze starts at the room 0 and ends at the room $n^{2} - 1$. The maze can be modeled by an undirected graph, where a vertex corresponds to a room and an edge corresponds to a door, see the maze below with the path and the corresponding graph for the maze.
 
 ![Graph](https://github.com/azamzow/AdjacencyList-ShorttestPath/blob/master/Graph.png?raw=true)
 
