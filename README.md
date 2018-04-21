@@ -2,7 +2,7 @@
 
 ### Description 
 
-This project finds a path from the entrance to the exit in a maze that consists of rooms connected by doors. Each room is enumerated by consecutive integers, from 0 to n^2 - $$1$$, and it can have no more than 4 doors oriented to North , South , East  or West . The entry to the maze starts at the room 0 and ends at the room n^2 - 1. The maze can be modeled by an undirected graph, where a vertex corresponds to a room and an edge corresponds to a door, see the maze below with the path and the corresponding graph for the maze.
+This project finds a path from the entrance to the exit in a maze that consists of rooms connected by doors. Each room is enumerated by consecutive integers, from 0 to n^2 - 1, and it can have no more than 4 doors oriented to North , South , East  or West . The entry to the maze starts at the room 0 and ends at the room n^2 - 1. The maze can be modeled by an undirected graph, where a vertex corresponds to a room and an edge corresponds to a door, see the maze below with the path and the corresponding graph for the maze.
 
 ![Graph](https://github.com/azamzow/AdjacencyList-ShorttestPath/blob/master/Graph.png?raw=true)
 
@@ -24,12 +24,12 @@ The input file used to show as an example looks like this…. using the number o
 
 So take line 2 for example, that is Room 0, and its only opening is the east door. SO using the input file from  input1.txt, its a 3x3 maze and shown in the output file is the shortest path.
 
-![OUTPUTinput1](/Users/averyzamzow/Desktop/AdjacencyList:ShorttestPath/OUTPUTinput1.png)
+![OUTPUTinput1](https://github.com/azamzow/AdjacencyList-ShorttestPath/blob/master/OUTPUTinput1.png?raw=true)
 
 The output on the terminal looks like TERMINAL1.png.
 
-![TERMINAL1](/Users/averyzamzow/Desktop/AdjacencyList:ShorttestPath/TERMINAL1.png)
+![TERMINAL1](https://github.com/azamzow/AdjacencyList-ShorttestPath/blob/master/TERMINAL1.png?raw=true)
 
 I am displaying the graph in the text format, use zero to denote a vertex (room) on the entry-exit path and x otherwise. As shown in output1.txt
 
-![OUTPUToutput1](/Users/averyzamzow/Desktop/AdjacencyList:ShorttestPath/OUTPUToutput1.png)
+![OUTPUToutput1](https://github.com/azamzow/AdjacencyList-ShorttestPath/blob/master/OUTPUToutput1.png?raw=true)
