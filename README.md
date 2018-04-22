@@ -12,7 +12,7 @@ This project finds a path from the entrance to the exit in a maze that consists 
 Using terminal on Mac, you have to make sure you have g++ installed first. Then you can run it...
 
 ```sh
-$ cd AdjacencyList-ShorttestPath
+$ cd AdjacencyList-ShortestPath
 $ g++ Project.cpp
 $ ./a.out
 ```
