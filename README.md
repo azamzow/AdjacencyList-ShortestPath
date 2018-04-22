@@ -35,12 +35,12 @@ The input file used to show as an example looks like this…. using the number o
 
 So take line 2 for example, that is Room 0, and its only opening is the east door. SO using the input file from  input1.txt, its a 3x3 maze and shown in the output file is the shortest path.
 
-![OUTPUTinput1](https://github.com/azamzow/AdjacencyList-ShorttestPath/blob/master/OUTPUTinput1.png?raw=true)
+![OUTPUTinput1](https://github.com/azamzow/AdjacencyList-ShortestPath/blob/master/OUTPUTinput1.png?raw=true)
 
 The output on the terminal looks like TERMINAL1.png.
 
-![TERMINAL1](https://github.com/azamzow/AdjacencyList-ShorttestPath/blob/master/TERMINAL1.png?raw=true)
+![TERMINAL1](https://github.com/azamzow/AdjacencyList-ShortestPath/blob/master/TERMINAL1.png?raw=true)
 
 I am displaying the graph in the text format, use zero to denote a vertex (room) on the entry-exit path and x otherwise. As shown in output1.txt
 
-![OUTPUToutput1](https://github.com/azamzow/AdjacencyList-ShorttestPath/blob/master/OUTPUToutput1.png?raw=true)
+![OUTPUToutput1](https://github.com/azamzow/AdjacencyList-ShortestPath/blob/master/OUTPUToutput1.png?raw=true)
