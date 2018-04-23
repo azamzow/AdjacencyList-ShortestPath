@@ -19,7 +19,7 @@ $ ./a.out
 
 ### Output
 
-The program asks the user for the filename containing the input and the filename to place the output path on.  This program can read graph data from any user file. In my program there are two inputs, input1.txt and input2.txt. I also have two different output files, output1.txt and output2.txt. After the user enters the file names, displayed on the screen is the algorithm used finds a path from the entrance to the the exit of the maze while also saving it to the output file. Then the program allows the user to choose between 4 different options...
+The program asks the user for the filename containing the input and the filename to place the output file on.  This program can read graph data from any user file. In my program there are two inputs, input1.txt and input2.txt. I also have two different output files, output1.txt and output2.txt. After the user enters the file names, displayed on the screen is the algorithm used finds a path from the entrance to the the exit of the maze while also saving it to the output file. Then the program allows the user to choose between 4 different options...
 
 1) Print the adjacency list
 
